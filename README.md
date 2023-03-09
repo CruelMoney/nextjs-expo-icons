@@ -1,8 +1,8 @@
 ### How to reproduce error
 
-1. ´yarn install´
-2. ´cd next-app´
-3. ´yarn dev´
+1. `yarn install`
+2. `cd next-app`
+3. `yarn dev`
 4. visit http://localhost:8500
 
 ### Error

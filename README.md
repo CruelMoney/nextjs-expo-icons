@@ -32,7 +32,3 @@ Import trace for requested module:
 ../expo-app/App.js
 
 ```
-
-```
-
-```
